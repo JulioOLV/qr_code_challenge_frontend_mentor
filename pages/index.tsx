@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import QrCodeChallenge from '../app/components/templates/qr_code_challenge/qr_code_challenge'
-import { MainStyle } from './style'
+import MainStyle from './style'
 
 const Home: NextPage = () => {
   return (
